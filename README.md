@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </div>
   <div>
-  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenppZHRxaG5xbTFleHJ3bXUwbGh2MzRhNDYwMDE1azJwaWppYm16bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhZr8u3cvxe0ksf1ej/giphy.gif">
+  
 </div>
 
 <div> 
