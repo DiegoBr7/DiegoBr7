@@ -1,6 +1,6 @@
 ## Olá! Prazer em te conhecer no meu GitHub 👋
 
-Sou um desenvolvedor com foco em [mencione suas principais áreas de interesse, ex: desenvolvimento web full-stack com Java e React, aplicações back-end com Spring Boot, projetos de análise de dados com Python, etc.]. Minha jornada na programação é impulsionada pela busca constante por aprender e construir soluções inovadoras.
+Sou um desenvolvedor com foco em [mencione suas principais áreas de interesse, ex: desenvolvimento web full-stack com Java e React, aplicações back-end com Spring Boot, projetos de análise de dados com Python, etc... Minha jornada na programação é impulsionada pela busca constante por aprender e construir soluções inovadoras.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoBr7&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)](https://github.com/DiegoBr7)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBr7&layout=compact&langs_count=7&theme=blue-green)](https://github.com/DiegoBr7)
